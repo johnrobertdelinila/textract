@@ -1,0 +1,17 @@
+{
+  "name": "textract-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.596.0",
+    "aws-textract-helper": "^1.0.0-beta.5",
+    "commander": "^4.0.1",
+    "lodash": "^4.17.19",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "pdf-image": "^2.0.0",
+    "pdf-poppler": "^0.2.1",
+    "util": "^0.12.3"
+  }
+}
